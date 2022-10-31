@@ -102,8 +102,6 @@ INSERT INTO clips VALUES ('GentleSmoggyBaguetteJebaited', 1261970795, 2, '00:00:
 INSERT INTO clips VALUES ('DifferentTalentedMuleDerp', 1260930535, 2, '00:00:29', 'KhailsWxrld');
 INSERT INTO clips VALUES ('TransparentSeductiveOrcaDAESuppy', 1269620662, 1, '00:00:29', 'Hec4fingers');
 
-
-
 -- INSERTING INTO broadcasts -- krismf
 INSERT INTO broadcasts VALUES (1289337440, 49073484, 99, '02:33:06');
 INSERT INTO broadcasts VALUES (1282813535, 49073484, 98, '03:12:22');
@@ -143,9 +141,6 @@ INSERT INTO clips VALUES ('RamshackleCreativeWoodcockBuddhaBar', 1289337440, 1, 
 INSERT INTO clips VALUES ('FriendlyCrypticWeaselGingerPower', 1282813535, 1, '00:00:29', 'SilverPsych');
 INSERT INTO clips VALUES ('ProductiveGrossShieldStinkyCheese', 1264530049, 1, '00:00:29', 'KrisMF');
 INSERT INTO clips VALUES ('PopularSassySangFutureMan', 1267786471, 2, '00:00:26', 'eighteen00');
-
--- CREATED BY: 6AMRUN
--- FEBRUARY 08, 2022
 
 -- INSERTING INTO broadcasts -- holykray
 INSERT INTO broadcasts VALUES (1291970074, 66682416, 48, '00:35:31');
