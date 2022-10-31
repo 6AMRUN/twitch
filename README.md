@@ -1,6 +1,6 @@
 # Twitch 
-a project of a personal twitch database of streamers that I watch
-data used from both twitch.tv and twitchinsights.net
+a project of a personal twitch database of streamers that I often watch
+- most data found from both twitch.tv and twitchinsights.net
 
 ## Relational Schema
 ![Relations](https://user-images.githubusercontent.com/96393286/199062748-c062a418-89e9-4dab-9ace-0516d9d14446.png)
