@@ -1,7 +1,6 @@
 -- CREATED BY: 6AMRUN
 -- FEBRUARY 08, 2022
 
-
 DROP TABLE streamer;
 DROP TABLE broadcasts;
 DROP TABLE clips;
