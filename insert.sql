@@ -1,6 +1,12 @@
 -- CREATED BY: 6AMRUN
 -- FEBRUARY 08, 2022
 
+-- INSERTING INTO streamer
+INSERT INTO streamer VALUES (95711949, 'aziakiara', 55963, '2015-07-10', 'partner');
+INSERT INTO streamer VALUES (49073484, 'KrisMF', 6928, '2013-09-16', 'affiliate');
+INSERT INTO streamer VALUES (66682416, 'holykray', 2111, '2014-07-19', 'affiliate');
+INSERT INTO streamer VALUES (93468390, '404LEXI', 2482, '2015-06-14', 'affiliate');
+
 -- INSERTING INTO broadcasts -- aziakiara 
 INSERT INTO broadcasts VALUES (1230216943, 95711949, 1078, '04:52:20');
 INSERT INTO broadcasts VALUES (1231216994, 95711949, 1347, '04:56:26');
